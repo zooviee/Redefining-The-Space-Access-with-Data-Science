@@ -57,7 +57,7 @@ In this repository there are 7 notebooks, 1 python file, 1 powerpoint presentati
 * Machine Learning Predictions.ipynb
 
 **5. Project presentation:**
-* Presentation_spacey.pdf
+* SpaceY_Report.pptx
 
 ## Results: 
 1. The exploratory data analysis gave us many information related to every feature and also on the inter features relationships. Among the main finding we have:
