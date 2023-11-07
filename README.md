@@ -38,7 +38,7 @@ The insights we found with this analysis is that the different launch sites have
 * What will then be the price of a launch?
 
 ## Documents overview:
-In this repository there are 7 notebooks, 1 python file, 1 pdf presentation and 2 image folders. The analysis has been done by following the steps listed below:
+In this repository there are 7 notebooks, 1 python file, 1 powerpoint presentation and 2 image folders. The analysis has been done by following the steps listed below:
 
 **1. Data collection methodology:**
 * Data Collection API.ipynb
