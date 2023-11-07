@@ -62,10 +62,10 @@ In this repository there are 7 notebooks, 1 python file, 1 powerpoint presentati
 ## Results: 
 1. The exploratory data analysis gave us many information related to every feature and also on the inter features relationships. Among the main finding we have:
 * There are 4 different launch sites
-* For the VAFB SLC 4E there are no rockets lunched for payload mass higher than 10000
+* For the VAFB SLC 4E there are no rockets launched for payload mass higher than 10000
 * There are 4 Orbits with a very high average success rate
-* Only for some orbits the success appears to be related to the flight number
-* Overall the success rate has always grown from 2013 to 2020. 
+* Only a few orbits have their success rate related to the flight number
+* Overall, the success rate has always grown from 2013 to 2020. 
 
 2. Interactive analysis: The interactive analysis showed geographical patterns linked to each launch site and their success rate in a visual and intuitive way.
 
